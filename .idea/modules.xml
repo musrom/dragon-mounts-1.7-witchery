@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dragon-mounts-1.7-witchery.api.iml" filepath="$PROJECT_DIR$/.idea/modules/dragon-mounts-1.7-witchery.api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dragon-mounts-1.7-witchery.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dragon-mounts-1.7-witchery.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dragon-mounts-1.7-witchery.test.iml" filepath="$PROJECT_DIR$/.idea/modules/dragon-mounts-1.7-witchery.test.iml" />
+    </modules>
+  </component>
+</project>

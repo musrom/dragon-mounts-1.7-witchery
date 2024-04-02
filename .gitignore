@@ -1,0 +1,17 @@
+# Gradle
+/.gradle/
+
+# Eclipse
+/.settings/
+.classpath
+.project
+
+# NetBeans
+/.nb-gradle/
+/.nb-gradle-properties
+
+# Other
+/build/
+/bin/
+/private/
+/minecraft/
